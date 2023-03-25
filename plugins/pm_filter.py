@@ -789,7 +789,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/Devil-Botz/Elsa'),
+            InlineKeyboardButton('𝐔𝐥𝐥𝐮🔞', url='https://t.me/+1Zx_fp-mmFkxZTc1'),
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -947,8 +947,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "deploy":
         buttons = [[
-           InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/Devil-Botz/Elsa'),
-           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/Aswin_pm_Bot')
+           InlineKeyboardButton('𝐔𝐥𝐥𝐮🔞', url='https://t.me/+1Zx_fp-mmFkxZTc1'),
+           InlineKeyboardButton('𝗗𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻 𝗚𝗿𝗼𝘂𝗽🎬', url='https://t.me/+xo3Tm67AwEQwNTg1')
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='aswin')
         ]]

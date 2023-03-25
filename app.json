@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Devil-Botz/Elsa",
-    "repository": "https://github.com/Devil-Botz/Elsa",
+    "website": "https://github.com/rajam0723/Elsa",
+    "repository": "https://github.com/rajam0723/Elsa",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -84,7 +84,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
